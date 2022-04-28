@@ -1,6 +1,7 @@
-h1Livro de receitas
+Livro de receitas
 
+OBS: Bem vindo ao meu livro de receitas
 
-
-OBS  
+- Strogonoff de frango 
+- Pave
 
